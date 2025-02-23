@@ -1,0 +1,23 @@
+{
+  "name": "summarizer-backend",
+  "version": "1.0.0",
+  "description": "Backend of extension to retrieve a website's overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "request-promise": "^4.2.6",
+    "translate-google": "^1.5.0"
+  }
+}
