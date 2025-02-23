@@ -1,4 +1,4 @@
-# Summarizer
+# Summarizer-Chrome-Extension
 
 `Summarizer` is a Chrome browser extension designed to provide users with concise summaries or key highlights of web pages. It offers this functionality in both English and Hindi languages. Users can use the extension to quickly grasp the main points or essential information from a webpage without having to read through the entire content.
 
